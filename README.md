@@ -1,10 +1,9 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Devin 👋
 
 - 🔭 I'm a Husband, Father, & Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: 
 
 ### Languages and Tools:
 
@@ -23,10 +22,6 @@
 
 <br />
 <br />
-
----
-
-<summary>:zap: GitHub Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvalencia)](https://github.com/anuraghazra/github-readme-stats)
 
