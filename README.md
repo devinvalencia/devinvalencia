@@ -23,7 +23,7 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvalencia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvalencia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinvalencia&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinvalencia&langs_count=8)
 
