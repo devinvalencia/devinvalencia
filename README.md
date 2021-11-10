@@ -1,8 +1,7 @@
 ### Hi there, I'm Devin 👋
 
 - 🔭 I'm a Husband, Father, & Developer
-- 🌱 I’m currently learning everything 🤣
-- 👯 
+- 🌱 I'm most interested in mastering the React Library & Next.js
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
