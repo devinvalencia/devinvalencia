@@ -2,10 +2,11 @@
 
 🔭 I'm a Husband, Father, & Developer.  
 🌱 My interests include behavioral sciences, cosmology & technology.  
-🏛️ I specialize in ServiceNow Development but am a React developer hobbyist.  
+🏛️ I specialize in ServiceNow Development but dabble with React applications as a hobbyist.  
 🏄‍♂️ I enjoy poker, meeting new people and reading.  
 :octocat: 2022 Goals:   
   -  Contribute more to Open Source projects
+  -  Master Now Expirience UI Framework
   -  Master the React Library & Next.js
 
 ### Languages and Tools:
