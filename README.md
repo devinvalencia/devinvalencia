@@ -1,9 +1,9 @@
 ### Hi there, I'm Devin 👋
 
-- 🔭 I'm a Husband, Father, & Developer.
-- 🌱 My interests include behavioral sciences, cosmology & technology.
-- 🏄‍♂️ I enjoy poker, meeting new people and reading.
-- :octocat: 2022 Goals: 
+🔭 I'm a Husband, Father, & Developer.
+🌱 My interests include behavioral sciences, cosmology & technology.
+🏄‍♂️ I enjoy poker, meeting new people and reading.
+:octocat: 2022 Goals: 
   -  Contribute more to Open Source projects
   -  Master the React Library & Next.js
 
