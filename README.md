@@ -1,9 +1,8 @@
 ### Hi there, I'm Devin 👋
 
-🔭 I'm a Husband, Father, & Developer.  
 🌱 My interests include behavioral sciences, cosmology & technology.  
 🏛️ I specialize in ServiceNow Development but dabble with React applications as a hobbyist.  
-🏄‍♂️ I enjoy poker, meeting new people and reading.  
+🏄‍♂️ I enjoy poker, meeting new people and comedy.  
 :octocat: 2022 Goals:   
   -  Contribute more to Open Source projects
   -  Master Now Expirience UI Framework
