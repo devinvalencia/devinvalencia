@@ -1,7 +1,7 @@
 ### Hi there, I'm Devin 👋
 
 🌱 My interests include behavioral sciences, supreme court cases, cosmology & technology.  
-🏛️ I specialize in ServiceNow Development but dabble with React applications and robotics as a hobbyist.  
+🏛️ I specialize in ServiceNow Development but dabble with React and robotics as a hobbyist.  
 🏄‍♂️ I enjoy poker, meeting new people and comedy.  
 :octocat: 2022 Goals:   
   -  Contribute more to Open Source projects
