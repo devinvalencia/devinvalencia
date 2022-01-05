@@ -2,7 +2,7 @@
 
 🌱 My interests include behavioral sciences, history, comedy & technology.  
 🏛️ I specialize in ServiceNow Development but dabble with React and robotics as a hobbyist.  
-🏄‍♂️ I enjoy poker, meeting new people and comedy.  
+🏄‍♂️ I enjoy poker, meeting new people and traveling.  
 :octocat: 2022 Goals:   
   -  Contribute more to Open Source projects
   -  Master Now Expirience UI Framework
