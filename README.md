@@ -1,12 +1,12 @@
 ### Hi there, I'm Devin 👋
 
 🌱 My interests include behavioral sciences, history, comedy & technology.  
-🏛️ I specialize in ServiceNow Development but dabble with React and robotics as a hobbyist.  
+🏛️ I specialize in Enterprise Platform Development (ServiceNow) but dabble with React and robotics as a hobbyist.  
 🏄‍♂️ I enjoy poker, meeting new people and traveling.  
 :octocat: 2022 Goals:   
-  -  Contribute more to Open Source projects
-  -  Master Now Expirience UI Framework
-  -  Master the React Library & Next.js
+  -  Contribute more to Open Source projects.
+  -  Master Custom Components in ServiceNow.
+  -  Master React.
 
 ### Languages and Tools:
 
